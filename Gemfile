@@ -80,10 +80,10 @@ dbfile = File.expand_path("../config/database.yml", __FILE__)
 #  end
 #end
 
-group :production do
-  gem 'pg'
-end
-
+# group :production do
+#   gem 'pg'
+# end
+gem 'pg'
 source 'https://rubygems.org'
 ruby "1.9.3"
 
