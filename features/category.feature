@@ -1,7 +1,7 @@
-Feature: Write Articles
+Feature: Add or Edit Article Categories
   As a blog administrator
   In order to share my thoughts with the world
-  I want to be able to add add and edit blogging 
+  I want to be able to add and edit blogging 
   categories
 
   Background:
